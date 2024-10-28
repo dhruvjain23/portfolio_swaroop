@@ -1,0 +1,78 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: 80px 170px;
+}
+
+.about-title{
+    position: relative;
+}
+.about-title h1{
+    padding: 0px 30px;  
+    font-size: 60px;
+    font-weight: 600;
+}
+.about-title img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+}
+.about-sections{
+    display: flex;
+    gap: 80px;
+}
+.about-left img{
+    /* position: absolute; */
+    height: 00px;
+}
+.about-right{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.about-para{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 24px;
+    font-weight: 500;
+    /* line-height: 30px; */
+}
+.about-achievments{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin-bottom: 80px;
+}
+.about-achievment{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    transition: 0.5s;
+}
+.about-achievment h1{
+    background: linear-gradient(270deg, #DF8908 50.41%, #B415FF 90.25%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.about-achievment p{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.logos{
+    display: grid;
+    justify-self: center;
+    /* justify-content: center; */
+    align-self: center;
+    grid-auto-flow: column;
+    width: 700px;
+    gap: 140px;
+}
