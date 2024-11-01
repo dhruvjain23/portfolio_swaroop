@@ -4,6 +4,8 @@ Welcome to the source code for my personal photography portfolio website! This p
 
 ## 📸 Project Overview
 
+![image](https://github.com/user-attachments/assets/b417138f-8a73-4b53-bf27-522a90a32317)
+
 This portfolio website is a platform for displaying my photography work, which primarily focuses on capturing authentic moments in urban and natural environments. The site includes sections for an **About Me**, **Portfolio** gallery, **Contact** form, and **Social Media** links.
 
 ## 🎨 Features
