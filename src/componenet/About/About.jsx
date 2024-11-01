@@ -22,9 +22,9 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, eum labore cumque ullam reiciendis odit rem consequatur itaque quasi nulla praesentium deleniti, harum vel, facilis est nisi recusandae adipisci rerum!
+                    <p>As a passionate photographer, I find beauty in the overlooked, the everyday, and the extraordinary. My work spans genres, from striking landscapes to intimate portraits, with a focus on natural light and compelling compositions. Through my lens, I strive to create moments that speak to the heart and linger in the mind.
                     </p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis explicabo aliquam qui tenetur, magni provident, dignissimos tempora perspiciatis hic perferendis suscipit reprehenderit ducimus quod tempore dolor alias. Qui, quidem praesentium</p>
+                    <p>I am an Electronics Engineer studying in Hemvati Nandan Bahuguna Garhwal University.</p>
                 </div>
                 <div className="logos">
                     <a href="https://www.instagram.com/swaroop2sky" target="_blank"><img src={insta} alt="Instagram" className='hover:brightness-150 hover:-translate-y-0.5'/></a>
@@ -49,8 +49,8 @@ const About = () => {
             </div>
             <hr />
             <div className="about-achievment ">
-                <h1 className='font-bold text-5xl'>5+</h1>
-                <p className='text-lg'>HAPPY CLIENTS</p>
+                <h1 className='font-bold text-5xl'>2+</h1>
+                <p className='text-lg'>AWARDS RECEIVED</p>
             </div>
         </div>
     </div>
