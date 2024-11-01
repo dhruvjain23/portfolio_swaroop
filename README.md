@@ -75,4 +75,4 @@ If you'd like to connect or discuss photography projects, feel free to reach out
 
 ### Acknowledgment
 
-This project was built with the support of **Dhruv Jain**, a Computer Science Engineering student at Hemvati Nandan Bahuguna Garhwal University (HNBGU). His technical contributions were invaluable in bringing this portfolio to life.
+This project was built with the support of [**Dhruv Jain**](https://github.com/dhruvjain23), a Computer Science Engineering student at Hemvati Nandan Bahuguna Garhwal University (HNBGU). His technical contributions were invaluable in bringing this portfolio to life.
